@@ -1,0 +1,16 @@
+.form-submited{
+    width: 70px;
+    height: 30px;
+    background-color: #1678CB;
+    border: none;
+    margin-left: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+  
+}
+
+.passwordMustBe p {
+    color:#7E7E7E;
+
+}

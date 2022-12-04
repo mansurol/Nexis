@@ -1,0 +1,10 @@
+.MenuBarContent{
+    color: blanchedalmond;
+}
+.MenuBarContent:hover {
+    color: brown;
+}
+
+.bgColor{
+background-color: #3B8BEA;
+}
