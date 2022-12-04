@@ -10,7 +10,7 @@ const StepTwo = () => {
         <div>
         <div className='container'>
         <div className='row'>
-            <div className='col-xl-7  col-md-7 col-sm-6'>
+            <div className='col-xl-7  col-md-7 col-sm-6 Imgstyle'>
             <img src={ImgOne} alt="ImgOne" />                </div>
 
             <div className='col-xl-5  col-md-5 col-sm-6'>

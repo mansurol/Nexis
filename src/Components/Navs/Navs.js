@@ -17,7 +17,6 @@ const Navs = () => {
  <Navbar.Collapse id="navbarScroll">
    <Nav className="ms-auto my-2 my-lg-0"> 
    <Nav.Link as={Link} to="/home"><span className="MenuBarContent">HOME</span></Nav.Link>
-   <Nav.Link as={Link} to="/about"><span className="MenuBarContent">ABOUT</span></Nav.Link>
    <Nav.Link as={Link} to="/attendance "><span className="MenuBarContent">ATTENDANCE </span></Nav.Link>
    <Nav.Link as={Link} to="/login"><span className="MenuBarContent">LOGIN</span></Nav.Link>
    
